@@ -1,4 +1,4 @@
- Roadmap: a simple word and character counting tool created with Script Editor.
+ Roadmap: a simple word and character counting tool created with Script Editor.app
 
  Different Versions:
 
